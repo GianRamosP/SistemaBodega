@@ -1,9 +1,11 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using SistemaBodega.Models;
+using SistemaBodega.Modelos.ViewModels;
 
-namespace SistemaBodega.Controllers
+namespace SistemaBodega.Areas.Inventario.Controllers
 {
+
+    [Area("Inventario")]
     public class HomeController : Controller
     {
         public IActionResult Index()

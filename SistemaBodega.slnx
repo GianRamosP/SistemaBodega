@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="SistemaBodega.AccesoDatos/SistemaBodega.AccesoDatos.csproj" />
+  <Project Path="SistemaBodega.Modelos/SistemaBodega.Modelos.csproj" />
+  <Project Path="SistemaBodega.Utilidades/SistemaBodega.Utilidades.csproj" />
   <Project Path="SistemaBodega/SistemaBodega.csproj" />
 </Solution>

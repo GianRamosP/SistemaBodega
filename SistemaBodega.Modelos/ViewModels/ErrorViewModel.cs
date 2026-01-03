@@ -1,4 +1,4 @@
-namespace SistemaBodega.Models
+namespace SistemaBodega.Modelos.ViewModels
 {
     public class ErrorViewModel
     {
